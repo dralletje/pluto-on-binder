@@ -65,7 +65,7 @@ uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[Pluto]]
 deps = ["Base64", "Distributed", "HTTP", "InteractiveUtils", "Markdown", "MsgPack", "Pkg", "REPL", "Sockets", "UUIDs"]
-git-tree-sha1 = "bf1876793e0c816046785334ac7264d9a375b5cd"
+git-tree-sha1 = "3828bc7a381bfc6129d0efebd72d21c695cbdc0f"
 repo-rev = "binder-token-redirect-in-javascript"
 repo-url = "https://github.com/dralletje/Pluto.jl"
 uuid = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
