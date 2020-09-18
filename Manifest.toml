@@ -65,9 +65,9 @@ uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[Pluto]]
 deps = ["Base64", "Distributed", "HTTP", "InteractiveUtils", "Markdown", "MsgPack", "Pkg", "REPL", "Sockets", "UUIDs"]
-git-tree-sha1 = "dceecee36081a2fa10218a90a87da2f522231692"
-repo-rev = "6c2fbc3"
-repo-url = "https://github.com/fonsp/Pluto.jl.git"
+git-tree-sha1 = "9e03d1b01193cf8e164ae41b53b5552effcc54a1"
+repo-rev = "javascript-upgrade"
+repo-url = "https://github.com/dralletje/Pluto.jl"
 uuid = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
 version = "0.11.14"
 
